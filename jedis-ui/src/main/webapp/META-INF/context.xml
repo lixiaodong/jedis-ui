@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Context displayName="Centralized Customer Management System" docBase="datanalyst" path="/datanalyst" workDir="work/Catalina/localhost/datanalyst">
+   <ResourceLink
+  	global="jdbc/SB2DB" 
+  	name="SB2DB" 
+  	type="javax.sql.DataSource" />
+</Context>
