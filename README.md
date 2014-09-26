@@ -3,7 +3,7 @@ jedis-ui
   Jedis-ui is a search key tool for redis,It's easy to use.
   You just need to search a key using pattern.
   Please let me know if you have any question.
-  my email:jettylee@live.cn
+  my email:jetty.lee@live.cn
   
 Install application:
 1.download jedis-ui project.
